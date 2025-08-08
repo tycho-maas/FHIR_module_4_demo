@@ -1,0 +1,14 @@
+Export in progress: Searched 0 patients - Retrying in 5 seconds...
+Results of patients in sandbox (Date 08/08/2025 15:15:35)
+
+Abnormal Observations:
+Patient Name: Warren James McGinnis III (e0w0LEDCYtfckT6N.CkJKCw3) - Cholesterol: 187. Reason: Incomplete data..
+Patient Name: Camila Maria Lopez (erXuFYUfucBZaryVksYEcMg3) - Hemoglobin A1C: 5.1. Reason: No reference range found for observation..
+Patient Name: Camila Maria Lopez (erXuFYUfucBZaryVksYEcMg3) - Genotype:: undefined. Reason: No reference range found for observation..
+
+
+Normal Observations:
+Patient Name: Camila Maria Lopez, (erXuFYUfucBZaryVksYEcMg3) - Platelets: 322. Reason Within reference range..
+Patient Name: Camila Maria Lopez, (erXuFYUfucBZaryVksYEcMg3) - RBC: 4.8. Reason Within reference range..
+Patient Name: Camila Maria Lopez, (erXuFYUfucBZaryVksYEcMg3) - Auto WBC: 6.5. Reason Within reference range..
+
